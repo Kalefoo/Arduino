@@ -55,5 +55,5 @@ if(neonow == 20){
 I hope you like it, it is a 
 basic but useful code to
 make a RGB strip of different colors
-My website: https://kalefoo.ml
+My website: https://kalefoo.org
 ***********************************/
